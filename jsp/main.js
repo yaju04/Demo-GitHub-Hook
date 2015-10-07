@@ -2,7 +2,7 @@
     // configure listener for github changes
     var github = githubhook({/* options */
 		   host: "localhost",
-       port: 8097,
+       port: 8087,
        path: "/pushchanges",
        secret: "123456"  
 	  });
