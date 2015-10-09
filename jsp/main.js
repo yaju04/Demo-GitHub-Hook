@@ -4,7 +4,7 @@
 		   host: "localhost",
        port: 8199,
        path: "/pushchanges",
-       secret: "123456"  
+       secret: "12334456"  
 	  });
 
     // listen to push on github on branch master
